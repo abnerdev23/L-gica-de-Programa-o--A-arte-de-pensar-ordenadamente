@@ -12,3 +12,6 @@ Guanabara,Flávio Guimarães, mas, devemos também ler bons livros, tais como os
 -Arduino Básico-Michael Roberts;
 -Introdução à programação com a Limguagem C;
 -entre muitos outros.
+
+
+
